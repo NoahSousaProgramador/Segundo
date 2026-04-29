@@ -5,10 +5,10 @@ Var
   Primeira_Nota,  Segunda_Nota, media : Real
 Inicio
 
-  Escreval("Qual foi sua nota para mim?")
+  Escreval("Qual foi a primeira nota do aluno?")
   Leia(Primeira_Nota)
 
-  Escreval("Qual foi a nota Mesmo???")
+  Escreval("E a segunda?")
   Leia(Segunda_Nota)
   
   media <- (Primeira_nota, + Segunda_Nota) /2
