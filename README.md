@@ -13,5 +13,5 @@ Inicio
   
   media <- (Primeira_nota, + Segunda_Nota) /2
   
-  Escreval("Sua media para mim é:", media)
+  Escreval("a  media do aluno é:", media)
 Fimalgoritmo
