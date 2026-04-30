@@ -8,7 +8,7 @@ Inicio
   Escreval("Qual foi a primeira nota do aluno?")
   Leia(Primeira_Nota)
 
-  Escreval("E a segunda?")
+  Escreval("E a Recuperação?")
   Leia(Segunda_Nota)
   
   media <- (Primeira_nota, + Segunda_Nota) /2
